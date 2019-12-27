@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Convert Vector Log Files to lABVIEW CAN Fields
-# Purpose:
-#
-# Author:      jeremy-daily
-#
-# Created:     24/10/2012
-# Copyright:   (c) jeremy-daily 2012
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 
 import os
 import os.path
